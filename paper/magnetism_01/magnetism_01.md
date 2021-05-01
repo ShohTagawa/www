@@ -3,7 +3,7 @@ layout: single
 classes: wide
 title: Massalski & Laughlin
 ---
-## The surprising role of magnetism on the phase stability of Fe (Ferro)
+## The surprising role of magnetism on the phase stability of Fe
 *Calphad* Volume 33, Issue 1, March 2009, Pages 3-7
 [pdf](http://www.contrib.andrew.cmu.edu/~dl0p/laughlin/pdf/401.pdf)
 
@@ -35,7 +35,7 @@ Fe の相転移は、1成分系(unary system)において磁気効果が構造�
 $$ α → γ → δ → liquid $$
 圧力を加えると、これらの遷移の温度が変化する（クラペイロン式を用いて計算できる）。また、約125 kbar以上の圧力をかけると、Feはhcp相を取るようになる。
 
-各構造の原子あたりの体積（Ω）と接近する原子間距離（d）の常圧における温度変化の傾向を図1に示す。BCCの値は、FCCの値よりも大きい。したがって、BCC構造はより"open"な構造とみなすことができ、より多くの振動選択(vibrational choices)を可能にし、FCCよりも振動エントロピーを大きくしている。この特徴により、BCC相のギブスエネルギーの負のTS項は、FCC相よりも温度とともに急速に増加する。FCC構造の12個の原子は、BCCの最も近い8個の原子よりもわずかに離れている（$$ d_bcc $$）が、BCC構造の次の6個の原子の距離は、最も近い接近距離を超えている（$$ d_bcc < d_fcc $$）。このような総合的な理由から、BCC構造はFCC構造に比べて最密充填ではないとみなされている。両構造の原子あたりの体積差が非常に小さいことは、両構造の全エネルギーが同程度であることを示しており、2つの異なる結晶構造のFeの原子間の結合が本質的に金属的であることを裏付けている。
+各構造の原子あたりの体積（Ω）と接近する原子間距離（d）の常圧における温度変化の傾向を図1に示す。BCCの値は、FCCの値よりも大きい。したがって、BCC構造はより"open"な構造とみなすことができ、より多くの振動選択(vibrational choices)を可能にし、FCCよりも振動エントロピーを大きくしている。この特徴により、BCC相のギブスエネルギーの負のTS項は、FCC相よりも温度とともに急速に増加する。FCC構造の12個の原子は、BCCの最も近い8個の原子よりもわずかに離れている（$$ d_(bcc) $$）が、BCC構造の次の6個の原子の距離は、最も近い接近距離を超えている（$$ d_(bcc) < d_(fcc) $$）。このような総合的な理由から、BCC構造はFCC構造に比べて最密充填ではないとみなされている。両構造の原子あたりの体積差が非常に小さいことは、両構造の全エネルギーが同程度であることを示しており、2つの異なる結晶構造のFeの原子間の結合が本質的に金属的であることを裏付けている。
 
 <figure>
   <img src="/paper/magnetism_01/fig1.jpg" alt="Temperature dependence of lattice parameters and the volume per atom in α and γ Fe.">
