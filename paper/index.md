@@ -3,7 +3,14 @@ layout: single
 classes: wide
 ---
 
-### Remote theme method
+### 解説記事
+---
+#### [翻訳] 鉄・鉄系合金の性質
+[鉄の常圧相図について](magnetism_01/magnetism_01.md)
+なぜ、鉄はα→γにかわるのか、という議論がなされてる論文の紹介です。
+The surprising role of magnetism on the phase stability of Fe
+*Calphad* Volume 33, Issue 1, March 2009, Pages 3-7
+[pdf](http://www.contrib.andrew.cmu.edu/~dl0p/laughlin/pdf/401.pdf)
 
 Remote themes are similar to Gem-based themes, but do not require `Gemfile` changes or whitelisting making them ideal for sites hosted with GitHub Pages.
 
