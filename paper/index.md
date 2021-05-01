@@ -1,14 +1,17 @@
 ---
 layout: single
 classes: wide
+sidebar: 
+    nav: "paper"
 ---
 
 ### 解説記事
 ---
 #### [翻訳] 鉄・鉄系合金の性質
 [鉄の常圧相図について](magnetism_01/magnetism_01.md)
-なぜ、鉄はα→γにかわるのか、という議論がなされてる論文の紹介です。
-The surprising role of magnetism on the phase stability of Fe
+なぜ、鉄はα→γにかわるのか、という議論がなされてる論文の紹介です。   
+The surprising role of magnetism on the phase stability of Fe   
+Massalski & Laughlin   
 *Calphad* Volume 33, Issue 1, March 2009, Pages 3-7
 [pdf](http://www.contrib.andrew.cmu.edu/~dl0p/laughlin/pdf/401.pdf)
 
