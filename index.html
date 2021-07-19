@@ -1,7 +1,7 @@
 ---
 layout: splash
 author_profile: true
-excerpt: "To reveal the **origin** of our planet."
+excerpt: "To reveal the **origin** of our planet. <br><small>Shoh Tagawa / TokyoTech ELSI</small>"
 header:
   overlay_image: /assets/images/planet-formation.jpg
   caption: "Photo credit: [**NASA**](https://imagine.gsfc.nasa.gov/features/bios/roberge/roberge_image.html)"
@@ -9,32 +9,28 @@ header:
     - label: "Recent publication"
       url: "http://www.elsi.jp"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Welcome to my homepage. My name is Shoh Tagawa.'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
+  - image_path: /assets/images/cv.png
+    title: "CV & self-introduction"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
+  - image_path: assets/images/dac.png
+    alt: "DAC"
+    title: "研究の紹介"
+    excerpt: "自分の行っているいる研究手法：DACと化学分析とシミュレーションの紹介です。"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/earth-rise.png
+    image_caption: "Image courtesy of [NASA](https://earthobservatory.nasa.gov/images/82693/earthrise-revisited)"
+    alt: ""
+    title: "研究プロジェクト"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
@@ -42,14 +38,15 @@ feature_row3:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+feature_row3:
+  - image_path: /assets/images/diary.png
     alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    title: "Placeholder Image Left Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -58,7 +55,6 @@ feature_row4:
 
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="center" %}
 $$ x = y^2 $$

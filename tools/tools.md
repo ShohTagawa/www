@@ -18,4 +18,6 @@ alt - alt
 スーパー　- スーパー
 
 上記は自分のオリジナル
+
+もともとの参考はこれ
 https://kanonji.hatenadiary.com/entry/20120130/1327897650
